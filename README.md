@@ -41,5 +41,5 @@ ChatApp utilizes the following technologies:
 ![Screenshot_20230621_185339](https://github.com/HISHAN03/Blog_App/assets/108483712/24cbe70b-fd60-4c19-990e-59befc7537fc)
 
 
-#Happy coding! 😎❄️
+# Happy coding! 😎❄️
 
