@@ -37,6 +37,9 @@ ChatApp utilizes the following technologies:
 - **Node.js**: A runtime environment for executing JavaScript code on the server-side.
 - **Bootstrap**:it is a css framework with a huge library 
 
-Happy coding! 😎❄️
+## SCREENSHOT
+![Screenshot_20230621_185339](https://github.com/HISHAN03/Blog_App/assets/108483712/24cbe70b-fd60-4c19-990e-59befc7537fc)
 
-![Screenshot_20230525_090342](https://github.com/HISHAN03/Blog_App/assets/108483712/90030ab6-f00d-418b-88eb-d30e994fba9e)
+
+#Happy coding! 😎❄️
+
