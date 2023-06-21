@@ -38,3 +38,5 @@ ChatApp utilizes the following technologies:
 - **Bootstrap**:it is a css framework with a huge library 
 
 Happy coding! 😎❄️
+
+![Screenshot_20230525_090342](https://github.com/HISHAN03/Blog_App/assets/108483712/90030ab6-f00d-418b-88eb-d30e994fba9e)
